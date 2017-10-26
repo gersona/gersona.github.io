@@ -7,9 +7,11 @@ html {
 }
 
 #main-card {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     background-color: white;
-    margin: 10% auto auto auto;
+    margin: 10% auto  auto;
 
 }
+
+
