@@ -7,11 +7,19 @@ html {
 }
 
 #main-card {
-    width: 500px;
-    height: 500px;
+    width: 450px;
+    height: 450px;
     background-color: white;
-    margin: 10% auto  auto;
+    margin: 10% auto ;
 
+}
+
+#main-card #head-msg {
+    height: 20%;
+}
+
+#main-card #portrait {
+    height: 50%;
 }
 
 
